@@ -4,7 +4,7 @@ replicaCount: 1
 
 image:
   repository: itsvictorfy/final-proj
-  tag: b95b2af
+  tag: 830314a
   pullPolicy: IfNotPresent
 
 spec:
