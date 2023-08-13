@@ -4,7 +4,7 @@ replicaCount: 1
 
 image:
   repository: itsvictorfy/final-proj
-  tag: cbd50dc
+  tag: f791776
   pullPolicy: IfNotPresent
 
 spec:
